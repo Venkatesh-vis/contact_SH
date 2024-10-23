@@ -1,0 +1,9 @@
+.head{
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.addContact{
+ background-color: blue ;
+}
